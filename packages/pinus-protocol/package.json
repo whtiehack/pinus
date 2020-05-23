@@ -28,7 +28,7 @@
  },
  "devDependencies": {
   "jscoverage": "0.6.0",
-  "mocha": "7.0.0",
+  "mocha": "7.2.0",
   "should": "13.2.3",
   "tslint": "6.1.1",
   "typescript": "3.8.3"
